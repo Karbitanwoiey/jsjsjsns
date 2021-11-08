@@ -1,1 +1,7 @@
-SESSION INI BRE
+{
+	"clientID": "kf+0nI15ALjRdKexIRPJnw==",
+	"serverToken": "1@FtOaUU1h4Il5M3fyd+JhE94l1y0IxIxAwIsD/dmYPLg4NwowOSefpq07G8MdFnusDlIscVVlbWDLbQ==",
+	"clientToken": "xpx2bkrbYlG0qJvQLu5+ujaHIESeL978OjJxYLAQsZM=",
+	"encKey": "gqiU0ALlTGpqpDMoZB2CotJcc8W1KkWO1oiVJLftIk4=",
+	"macKey": "BrCPY4L2szAYboJ5whQwnhAE+5OBJFRX12Od7hWDkFs="
+}
